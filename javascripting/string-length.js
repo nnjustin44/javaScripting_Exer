@@ -1,3 +1,5 @@
 var example = "example string";
 
-consule.log(example.length);
+var n = example.length;
+
+console.log(n);

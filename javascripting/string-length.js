@@ -1,5 +1,5 @@
 var example = "example string";
 
-var n = example.length;
+var example = example.length;
 
-console.log(n);
+console.log(example);

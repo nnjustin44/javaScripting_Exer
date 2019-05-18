@@ -1,5 +1,5 @@
 var pizza = "pizza is alright";
 
-var pizza = pizza.replace("alright", "wonderful");
+//var cheese = pizza.replace("alright", "wonderful");
 
-console.log(pizza);
+console.log(pizza.replace("alright", "wonderful"));

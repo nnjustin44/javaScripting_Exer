@@ -1,5 +1,5 @@
 var num = 128;
 
-num = num.toString();
+//num = num.toString();
 
-console.log(num);
+console.log(num.toString());

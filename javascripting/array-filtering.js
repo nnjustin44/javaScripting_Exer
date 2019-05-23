@@ -4,3 +4,5 @@ var filtered = number.filter(function evenNumber(number) {
   return number % 2 === 0;
 });
 console.log(filtered);
+
+//function is a named block of code
